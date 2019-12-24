@@ -1,5 +1,5 @@
 # what is git?
-<img style="margin : 0px auto; display:block;" src="./gitImg.png" width="500">
+<img src="./gitImg2.jpeg" width="100%"/>
 <br>
 
 ## VCS의 개념
