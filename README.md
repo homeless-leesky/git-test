@@ -1,5 +1,8 @@
 # 1. What is git?
-<img src="./gitImg2.jpeg" width="100%"/>
+
+<img src="./git-test-logo.png"/>
+
+
 <br>
 
 # 2. VCS의 개념
